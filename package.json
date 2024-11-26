@@ -1,0 +1,9 @@
+{
+  "name": "react-native-stylewind",
+  "version": "0.0.3",
+  "main": "index.min.js",
+  "license": "MIT",
+  "scripts": {
+    "uglify": "uglifyjs index.js -o index.min.js"
+  }
+}
